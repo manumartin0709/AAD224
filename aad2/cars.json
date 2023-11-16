@@ -1,0 +1,13 @@
+[
+	{
+		"marca" :"Volkswagen",
+		"modelo" : "Polo",
+		"motor":
+		{
+			"revoluciones" : 1500,
+			"tipo" : "diesel"
+		},
+		"puertas" : 5,
+		"kilometros": 20000
+	}
+]

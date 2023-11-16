@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<casas>
+  <casa ciudad="Marmolejo" habitaciones="5" metrosCuadrados="320" plantas="3" tipo="piso" zonasComunes="true"/>
+</casas>

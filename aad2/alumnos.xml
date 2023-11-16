@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<alumnos>
+    <alumno nombre= "Juan" edad="23">
+        <clasificaion>9.5</clasificaion><unidadesPendientes>false</unidadesPendientes>
+    </alumno>
+    <alumno nombre= "Prablo" edad="21">
+        <clasificaion>7.5</clasificaion><unidadesPendientes>false</unidadesPendientes>
+    </alumno>
+    <alumno nombre= "Carlos" edad="19">
+        <clasificaion>6.5</clasificaion><unidadesPendientes>false</unidadesPendientes>
+    </alumno>
+    <alumno nombre= "Alejandro" edad="20">
+        <clasificaion></clasificaion><unidadesPendientes>true</unidadesPendientes>
+    </alumno>
+    <alumno nombre= "Pepe" edad="25">
+        <clasificaion>7.3</clasificaion><unidadesPendientes>true</unidadesPendientes>
+    </alumno>
+    <alumno nombre= "Alberto" edad="22">
+        <clasificaion>6.4</clasificaion><unidadesPendientes>true</unidadesPendientes>
+    </alumno>
+    <alumno nombre= "Francisco" edad="20">
+        <clasificaion>8.7</clasificaion><unidadesPendientes>false</unidadesPendientes>
+    </alumno>
+    <alumno nombre= "Antonio" edad="17">
+        <clasificaion>9.4</clasificaion><unidadesPendientes>false</unidadesPendientes>
+    </alumno>
+    <alumno nombre= "Ruben" edad="19">
+        <clasificaion>3.5</clasificaion><unidadesPendientes>true</unidadesPendientes>
+    </alumno>
+    <alumno nombre= "Rafael" edad="30">
+        <clasificaion>10</clasificaion><unidadesPendientes>false</unidadesPendientes>
+    </alumno>
+    <alumno nombre= "Eduardo" edad="14">
+        <clasificaion>7.1</clasificaion><unidadesPendientes>false</unidadesPendientes>
+    </alumno>
+    <alumno nombre= "Jose" edad="17">
+        <clasificaion>6.3</clasificaion><unidadesPendientes>false</unidadesPendientes>
+    </alumno>
+    <alumno nombre= "Andres" edad="16">
+        <clasificaion>8.6</clasificaion><unidadesPendientes>false</unidadesPendientes>
+    </alumno>
+    <alumno nombre= "Isabel" edad="17">
+        <clasificaion>7.4</clasificaion><unidadesPendientes>true</unidadesPendientes>
+    </alumno>
+    <alumno nombre= "Nerea" edad="">
+        <clasificaion>4.9</clasificaion><unidadesPendientes>false</unidadesPendientes>
+    </alumno>
+    <alumno nombre= "Lucia" edad="24">
+        <clasificaion>5.5</clasificaion><unidadesPendientes>false</unidadesPendientes>
+    </alumno>
+    <alumno nombre= "Julia" edad="16">
+        <clasificaion>7.5</clasificaion><unidadesPendientes>true</unidadesPendientes>
+    </alumno>
+    <alumno nombre= "Claudia" edad="13">
+        <clasificaion>10</clasificaion><unidadesPendientes>false</unidadesPendientes>
+    </alumno>
+    <alumno nombre= "Angela" edad="19">
+        <clasificaion>4.5</clasificaion><unidadesPendientes>true</unidadesPendientes>
+    </alumno>
+    <alumno nombre= "Maria" edad="16">
+        <clasificaion>7.7</clasificaion><unidadesPendientes>false</unidadesPendientes>
+    </alumno>
+</alumnos>

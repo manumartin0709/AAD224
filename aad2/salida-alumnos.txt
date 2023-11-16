@@ -1,0 +1,13 @@
+Alumnos con unidades pedientes ordenados alfabeticamente inversos: 
+z
+w
+t
+r
+qo
+k
+j
+i
+g
+f
+a
+El alumno más cercano a la nota media 6.26 es: pcon una nota de:6.3
